@@ -2,3 +2,4 @@
 
 - **[2026-07-01 11:22:13]** (1) feat(inspector): capture HTTP requests and response payloads
 - **[2026-07-01 14:39:36]** (2) ui(viewer): add expandable JSON tree viewer for responses
+- **[2026-07-01 17:56:59]** (3) feat(export): add export network request as cURL command

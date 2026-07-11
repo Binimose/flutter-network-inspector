@@ -33,3 +33,4 @@
 - **[2026-07-10 10:25:10]** (31) feat(export): add export network request as cURL command
 - **[2026-07-10 13:42:33]** (32) fix(timing): accurately measure DNS and TLS handshake latency
 - **[2026-07-10 16:59:56]** (33) test(interceptor): add unit tests for error status filtering
+- **[2026-07-11 11:32:23]** (34) perf(storage): limit in-memory network log capacity to 200 items

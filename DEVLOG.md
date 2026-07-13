@@ -42,3 +42,4 @@
 - **[2026-07-12 19:30:45]** (40) test(interceptor): add unit tests for error status filtering
 - **[2026-07-13 11:46:49]** (41) perf(storage): limit in-memory network log capacity to 200 items
 - **[2026-07-13 14:03:12]** (42) docs(integration): document one-line Dio interceptor setup
+- **[2026-07-13 17:20:35]** (43) feat(inspector): capture HTTP requests and response payloads

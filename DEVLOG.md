@@ -71,3 +71,4 @@
 - **[2026-07-21 17:16:19]** (69) perf(storage): limit in-memory network log capacity to 200 items
 - **[2026-07-21 20:33:42]** (70) docs(integration): document one-line Dio interceptor setup
 - **[2026-07-22 10:49:46]** (71) feat(inspector): capture HTTP requests and response payloads
+- **[2026-07-22 13:06:09]** (72) ui(viewer): add expandable JSON tree viewer for responses

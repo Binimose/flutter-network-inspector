@@ -80,3 +80,4 @@
 - **[2026-07-24 13:20:35]** (78) feat(inspector): capture HTTP requests and response payloads
 - **[2026-07-24 16:37:58]** (79) ui(viewer): add expandable JSON tree viewer for responses
 - **[2026-07-24 19:54:21]** (80) feat(export): add export network request as cURL command
+- **[2026-07-25 11:10:25]** (81) fix(timing): accurately measure DNS and TLS handshake latency

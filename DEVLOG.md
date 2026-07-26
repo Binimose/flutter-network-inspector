@@ -83,3 +83,4 @@
 - **[2026-07-25 11:10:25]** (81) fix(timing): accurately measure DNS and TLS handshake latency
 - **[2026-07-25 14:27:48]** (82) test(interceptor): add unit tests for error status filtering
 - **[2026-07-25 17:44:11]** (83) perf(storage): limit in-memory network log capacity to 200 items
+- **[2026-07-26 10:17:38]** (84) docs(integration): document one-line Dio interceptor setup

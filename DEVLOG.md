@@ -86,3 +86,4 @@
 - **[2026-07-26 10:17:38]** (84) docs(integration): document one-line Dio interceptor setup
 - **[2026-07-26 13:34:01]** (85) feat(inspector): capture HTTP requests and response payloads
 - **[2026-07-26 16:51:24]** (86) ui(viewer): add expandable JSON tree viewer for responses
+- **[2026-07-27 11:24:51]** (87) feat(export): add export network request as cURL command

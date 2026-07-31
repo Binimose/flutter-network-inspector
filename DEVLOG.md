@@ -102,3 +102,4 @@
 - **[2026-07-30 19:36:39]** (100) ui(viewer): add expandable JSON tree viewer for responses
 - **[2026-07-31 11:52:43]** (101) feat(export): add export network request as cURL command
 - **[2026-07-31 14:09:06]** (102) fix(timing): accurately measure DNS and TLS handshake latency
+- **[2026-07-31 17:26:29]** (103) test(interceptor): add unit tests for error status filtering
